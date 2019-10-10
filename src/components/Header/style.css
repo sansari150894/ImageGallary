@@ -1,0 +1,12 @@
+.header-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #01aaff;
+    padding: 5px;
+    justify-content: flex-start;
+}
+.header-item{
+    color: white;
+    margin-left: 15px;
+    font-weight: bold;
+}

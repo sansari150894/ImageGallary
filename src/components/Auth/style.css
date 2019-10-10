@@ -1,0 +1,34 @@
+.auth-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30PX;
+}
+.heading{
+    padding: 5px;
+    font-size: 14px;
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    width: 250px;
+    height: 30px;
+    border: none;
+    padding: 0 5px;
+    margin: 5px;
+    border-bottom: 2px solid black;
+}
+.btn{
+    margin: 5px;
+    height: 30px;
+    border-radius: 5px;
+}
+.subheading{
+    margin: 5px;
+    color: #0091ff;
+    font-size: 12px;
+    font-weight: 500;
+}

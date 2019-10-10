@@ -2,22 +2,17 @@ Clone the project:
 
 ### `git clone`
 
-contain two folder Frontend and back end
-
-For frontend :
-
-In the project directory/fronend, run 
+In the project directory/ImageGallary, run 
 ### `npm start` 
 to install the dependency
 
-In the project directory/frontend, you can run:
+In the project directory/ImageGallary, you can run:
 ### `npm start`
 to run the project
 
-Technologies Stack for frontend
+Technologies Stack
 React
 React-router
+Redux
 HTML/CSS3 (No third party library for styling)
-
-For frontend :
 
